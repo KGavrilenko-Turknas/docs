@@ -7,5 +7,4 @@
 (https://github.com/KGavrilenko-Turknas/docs/commit/34feaa238f0dccc705967fe3157c20ba143515c3)
 [Тестовый прогон]
 (https://github.com/KGavrilenko-Turknas/docs/commit/1628bff5095f8e669f7fdfddc88fc8410da39ff3)
-[Создание тест-плана для приложения "Интернет-магазин"]
-(https://docs.google.com/spreadsheets/d/1EAzVzp4F0-DNgJa8QtINGTcGA-2nW6AoogQtTEqkehQ/edit?usp=sharing)
+
