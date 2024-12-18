@@ -4,6 +4,7 @@
 [Тест кейсы в QASE для модулей Регистрация, Авторизация, Подуктовый каталог]
 (https://app.qase.io/project/G9?suite=8)
 [Тест кейсы для модулей Регистрация, Авторизация, Подуктовый каталог]
+(https://github.com/KGavrilenko-Turknas/docs/commit/8a78bf595516cb5942a9cf61d1fa502202cc9c66)
 [Тестовый прогон]
 (https://github.com/KGavrilenko-Turknas/docs/commit/d5d0ff71510f99737251afc2ae80445039783a27)
 [Отчет о дефектах для модулей Регистрация, Атворизация, Продуктовый каталог]
