@@ -8,6 +8,6 @@
 [Тестовый прогон]
 (https://github.com/KGavrilenko-Turknas/docs/commit/0c5a8782d8aa08e48163686ecb76671df2136bb6)
 [Отчет о дефектах для модулей Регистрация, Атворизация, Продуктовый каталог]
-(https://github.com/KGavrilenko-Turknas/docs/commit/754acf5938f69f0c697c790b96d368856adf49f6)
+(https://github.com/KGavrilenko-Turknas/docs/commit/c063a1890d7cc74db4b7ed4314223565cb177e6e)
 
 
